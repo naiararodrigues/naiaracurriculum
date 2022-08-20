@@ -696,7 +696,7 @@ section.section-profile .titles {
     margin-left: 10%;
     margin-right: auto;
     display: block;
-    width: cover;
+    width: fit-content;
 }
 
 section.section-profile .titles span {
@@ -780,7 +780,7 @@ section.section-hero .hero-slides .slide {
 }
 
 section.section-hero>* {
-    position: cover;
+    position: relative;
     z-index: 3;
 }
 
